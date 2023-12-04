@@ -1,2 +1,5 @@
 # Project-2-on-Data-Analysis-with-Python
-Demonstrate some understanding and appreciation for data analysis using some Python and its growing suite of Data Science libraries with a special focus on the Pandas library.
+
+The dataset used can be found [here]([url](https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho)https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho). The specific .csv file in the zip file downloaded is titled "CAR DETAILS FROM CAR DEKHO".
+
+The full tutorial on the applications of data analysis using python can be found [here](url) 
