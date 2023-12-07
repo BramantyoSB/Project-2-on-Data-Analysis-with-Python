@@ -1,4 +1,4 @@
-Project II: Tutorial to do analysis on World CO2 Data
+# Project II: Tutorial to do analysis on World CO2 Data
 Drawing upon our knowledge in Python and its data science libraries—Pandas, NumPy, and Matplotlib—__we can leverage our expertise in addressing pressing global challenges__. This case study specifically delves into __examining the historical extent of climate change__. 
 __Understanding Climate Change__
 
